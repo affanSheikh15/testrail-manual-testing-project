@@ -51,6 +51,3 @@ Each test suite focuses on a specific functionality area. Test cases are designe
 
 ## Author
 Affan Sheikh
-
-
-Would you like me to make the **README content** slightly shorter (1–2 paragraphs for a clean GitHub look) or keep it this detailed version?
